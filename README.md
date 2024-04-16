@@ -1,0 +1,1 @@
+This simulation helps asks the user for a number of customer and cars and until every customer rents a car the program keeps running. In this project, queue, deque, and list data structures were implemented as well
